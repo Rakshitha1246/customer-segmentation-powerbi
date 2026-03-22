@@ -16,8 +16,6 @@ RFM (Recency, Frequency, Monetary) analysis is applied to segment customers and 
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
 
 ---
 
